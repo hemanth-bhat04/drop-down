@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(skyblue,rgba(255, 255, 255, 0.596));
+    background-position:center;
+    background-image: url("bg.jfif");
+    background-size:auto;
+}
+
+h1{
+    color:white;
+    border-bottom-left-radius: 0cap;
+    text-shadow: 5px 5px 5px aqua;
+}
+p{
+    color:aquamarine;
+    font-family:"consolas";
+    font-weight: bolder;
+    text-decoration: snow;
+    border-style: dotted ;
+    border-radius: 0cqb;
+    padding: auto;
+
+}
+
+#p1{
+    color:tomato;
+}
+#p2{
+    color:aqua;
+}
